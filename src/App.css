@@ -1,0 +1,19 @@
+.app-header {
+  display: flex;
+  justify-content: center;
+}
+
+.date-picker {
+  margin: 10px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+}
+
+.picture-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
